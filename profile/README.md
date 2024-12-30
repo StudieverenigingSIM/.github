@@ -9,4 +9,4 @@ This is where we have been building the future of SIM since 2021.
 [SIM](https://svsim.nl/) is the study association of the faculty IT & Design at The Hague University of Applied Sciences and stands for "Study assocation for IT and Media". Find out more about SIM on the website [svsim.nl](https://svsim.nl/studievereniging-sim/over-sim).
 
 ## Who are we?
-This GitHub is maintained by SIM's System Committee ([SysCo](https://svsim.nl/studievereniging-sim/actieve-leden/systeem-commissie)). Want to join us? Send us an e-mail at [systeemcommissie@svsim.nl](mailto:systeemcommissie@svsim.nl)!
+This GitHub is maintained by SIM's Website Committee ([SysCo](https://svsim.nl/actieve-leden/website-commissie/)). Want to join us? Send us an e-mail at [webco@svsim.nl](mailto:webco@svsim.nl)!
